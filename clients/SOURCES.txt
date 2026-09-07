@@ -1,0 +1,17 @@
+Client logo sources
+
+vline.png
+https://www.vline.com.au/App_Themes/V_LineStyle/Images/Logos/vline-logo-white-180x89.png
+Official V/Line website header asset. White transparent logo.
+
+deakin.jpg
+https://vtac.edu.au/files/images/institutions/logo_140.jpg
+Victorian Tertiary Admissions Centre (VTAC) institution logo. Visually verified Deakin University mark.
+
+victoria.svg
+https://www.vic.gov.au/department-transport-and-planning
+Extracted official inline footer SVG, class rpl-footer-vic-gov-logo. Generic Victoria State Government mark, to be accompanied by the Department of Transport and Planning caption. SVG fill set to navy to match original government presentation.
+
+queensland.svg
+https://www.yoursay-projects.tmr.qld.gov.au/packages/custom_qldtmr_yoursay/themes/the_hive_qldtmr_yoursay/img/site-logo.svg
+Official TMR project consultation website header asset. Generic Queensland Government mark, to be accompanied by the Department of Transport and Main Roads caption.
