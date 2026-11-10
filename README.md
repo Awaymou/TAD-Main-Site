@@ -35,7 +35,7 @@ Do not choose the React preset. This package is already rendered HTML, CSS and J
 ## Editing
 
 - Text and page sections: `index.html`.
-- Styling: the CSS file in `assets/`.
+- Styling: CSS in `assets/`, including `assets/site-spacing.css` for shared section spacing.
 - Carousel pause button: `carousel.js`.
 - Logos: `clients/`, with sources in `clients/SOURCES.txt`.
 - Images: the image files in the repository root.

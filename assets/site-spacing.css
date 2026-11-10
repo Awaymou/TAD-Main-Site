@@ -1,0 +1,16 @@
+:root {
+  --section-space: clamp(80px, 7.64vw, 110px);
+  --section-heading-space: clamp(40px, 4vw, 56px);
+}
+
+section.section-pad,
+.clients {
+  padding-block: var(--section-space);
+}
+
+.section-heading-row,
+.about-copy h2,
+.contact h2,
+.clients h2 {
+  margin-block: var(--section-heading-space);
+}
